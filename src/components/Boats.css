@@ -1,0 +1,33 @@
+.price-slider {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    position: relative;
+}
+
+.card-gallery {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    height: 200px;
+}
+
+.card-gallery img {
+    margin-right: 10px;
+}
+
+.card-info {
+    padding-left: 25px;
+}
+
+.card-info > *{
+    margin-bottom: 10px;
+}
+
+.card-price {
+    margin-bottom: 20px;
+    font-size: 1.35rem;
+    color: var(--blue-color);
+}
