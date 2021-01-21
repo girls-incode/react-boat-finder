@@ -14,7 +14,7 @@ The page URL updates with the filtering options so that users can share the URL 
 
 > The state management will be done using **MobX-State-Tree (MST)** - functional reactive state library
 
-## Scripts
+## Run
 
 #### `yarn start`
 
