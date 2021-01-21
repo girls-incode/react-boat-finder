@@ -2,6 +2,9 @@
 
 A boats listing page that displays their info: images, price, model, manufacturer, location.
 
+<kbd><img src="https://github.com/girls-incode/react-boat-finder/blob/master/react-boat-finder-api-mobx-materialui.jpg" alt="" /></kbd>
+<br/><br/>
+
 The header contains a search block which:
 * Filter by manufacturer (a dropdown with manufacturers from the API)
 * Filter by price (min and max value)
