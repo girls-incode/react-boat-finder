@@ -2,7 +2,7 @@
 
 A boats listing page that displays their info: images, price, model, manufacturer, location.
 
-<kbd><img src="https://github.com/girls-incode/react-boat-finder/blob/master/react-boat-finder-api-mobx-materialui.jpg" alt="" /></kbd>
+<kbd><img src="https://github.com/girls-incode/react-boat-finder/blob/master/react-boat-finder-api-mobx-materialui-app.jpg" alt="" /></kbd>
 <br/><br/>
 
 The header contains a search block which:
